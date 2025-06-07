@@ -135,3 +135,4 @@ layout: default
 
 ## About
 Welcome to my personal website. Here you can find my projects and contact information.
+"<!-- rebuild -->" 
